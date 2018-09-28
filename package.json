@@ -1,0 +1,32 @@
+{
+  "name": "@jdltechworks/redux-utils",
+  "version": "0.0.0",
+  "description": "Helpers to create redux modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdltechworks/redux-utils.git"
+  },
+  "keywords": [
+    "modular-redux",
+    "redux",
+    "react"
+  ],
+  "author": "jdltechworks",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jdltechworks/redux-utils/issues"
+  },
+  "homepage": "https://github.com/jdltechworks/redux-utils#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "jest": "^23.6.0",
+    "redux": "^4.0.0"
+  }
+}
